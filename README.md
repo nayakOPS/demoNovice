@@ -1,0 +1,2 @@
+# demoNovice
+first GIT repository
