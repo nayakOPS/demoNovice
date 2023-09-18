@@ -1,4 +1,4 @@
 # demoNovice
 First Git Repository , trying-out
 <br>
-Author - Binayak Kunwor
+Author - Binayak Kunwor / nayakOPS
