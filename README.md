@@ -1,2 +1,3 @@
 # demoNovice
-first GIT repository
+First Git Repository , trying-out
+Author - Binayak Kunwor
